@@ -1,5 +1,5 @@
 streamlit==0.57.3
 pandas==1.0.3
-requests==2.21.0
+requests==2.31.0
 plotly==4.6.0
 riotwatcher==3.0.0
